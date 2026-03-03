@@ -15,4 +15,3 @@
         , <&gpio0 31 GPIO_ACTIVE_HIGH>
         ;
 };
-
