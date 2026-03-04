@@ -1,0 +1,12 @@
+file_format: "1"
+id: 1stTRY
+name: 1stTRY
+type: shield
+url: https://github.com/KI6844/zmk-config-1stTRY
+requires: [pro_micro]
+features:
+  - keys
+  - backlight
+siblings:
+  - 1stTRY_left
+  - 1stTRY_right
